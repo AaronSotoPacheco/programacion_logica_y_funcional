@@ -36,3 +36,5 @@ jefe(elliot, heather).
 
 %¿Es compañero de nivel Mike de Lori?
 %-jefe(X, mike), jefe(X, lori).
+
+abuela(x,y):- progenitor(Z,Y), progenitor(X,Z), mujer(X).

@@ -58,7 +58,13 @@ misma_familia(homo, gorilla).
 
 4-¿Tiene Hominini la misma familia que Pongo?
 misma_familia(hominini, pongo).
+
+-5¿Quiénes son los descendientes directos de una tribu?
+
+
 /*
+
+
 
 
 
